@@ -1,4 +1,5 @@
 ![meme](work-hard-office.gif)
+
 Hi, I’m Harison Silva.
 
 I work with Research and Development and I'm always looking to learn more about this huge area that is computing.
